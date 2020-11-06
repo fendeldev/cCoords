@@ -1,0 +1,11 @@
+main: dev.fendel.cCoords.cCoords
+name: cCoords
+version: '1.3'
+author: spliffydan
+commands:
+  c:
+    description: Broadcasted deine Koordinaten an alle Spieler & bei Tod ebenso
+    usage: /<command>
+  s:
+    description: Setzt dich in den Spectator Mode und bei erneutem Ausführen von /s wieder in den Survival Mode mit den Ursprungskoordinaten
+    usage: /<command>
